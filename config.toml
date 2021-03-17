@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Luca Di Stefano"
 theme = "avicenna"
 timeout=3000
+ignoreErrors = ["error-disable-taxonomy"]
+disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "404"]
 
 [params]
   subtitle= "Post-doctoral researcher"
