@@ -1,0 +1,71 @@
+baseURL = "https://example.edu"
+languageCode = "en-us"
+title = "Luca Di Stefano"
+theme = "avicenna"
+timeout=3000
+
+[params]
+  subtitle= "Post-doctoral researcher"
+  interests="Software verification, Model checking, Multi-agent systems, Formal semantics"
+  cv_name= "LucaDiStefano_CV.pdf"
+  blog="http://lou1306.github.io/en"
+
+[[params.affilation]]
+  name = "INRIA and LIG, Grenoble"
+  position = "Post-doctoral researcher (CONVECS team)"
+  contact = "luca.di-stefano@inria.fr"
+
+
+[[params.social]]
+  name = "GitHub"
+  icon = "github"
+  url = "https://github.com/lou1306"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "linkedin"
+  url = "https://linkedin.com/in/lou1306/"
+
+[[params.introduction.paragraph]]
+  text="""My research focuses on the specification and analysis of complex
+  collective systems (such as multi-agent systems, robot swarms, and so on) and
+  their verification via state-of-the-art verification techniques. 
+   """
+[[params.cv.paragraph]]
+  from = "November 2020"
+  to = "now"
+  text="""Post-doctoral researcher at [CONVECS](https://convecs.inria.fr) (INRIA and LIG, Grenoble, France)."""
+
+[[params.cv.paragraph]]
+  from = "December 2019"
+  to = "October 2020"
+  text="""Holder of a research grant on "Verification of Emerging Properties in
+      Collective Adaptive Systems" at [SysMA](https://sysma.imtlucca.it/) (IMT School for Advanced Studies, Lucca, Italy).
+      """
+[[params.cv.paragraph]]
+  from = "March 2019"
+  to = "July 2019"
+  text="""Visiting PhD student at [CONVECS](https://convecs.inria.fr) (INRIA and LIG, Grenoble, France)."""
+
+[[params.cv.paragraph]]
+  from = "October 2016"
+  to = "November 2020"
+  text="""PhD in Computer Science at [Gran Sasso Science Institute](https://gssi.it) (L'Aquila, Italy)."""
+   
+[[params.cv.paragraph]]
+  from = "March 2014"
+  to = "October 2016"
+  text="""Master's Degree in Computer and Systems Engineering at [DISIM](https://www.disim.univaq.it/) (University of L'Aquila, Italy)."""
+
+
+[[params.publications]]
+  year="2020"
+
+  [[params.publications.paper]]
+    name = "Combining SLiVER with CADP to Analyze Multi-agent Systems"
+    authors = "Luca Di Stefano, Frédéric Lang, Wendelin Serwe"
+    dest  = "COORDINATION 2020"
+    link = "https://doi.org/10.1007/978-3-030-50029-0_23"
+    pdf_link = "http://convecs.inria.fr/doc/publications/DiStefano-Lang-Serwe-20.pdf"
+    slides_link = "http://convecs.inria.fr/doc/presentations/DiStefano-COORDINATION-20.pdf"
+    video_link = "https://youtu.be/4D5KdkM9zA4"
