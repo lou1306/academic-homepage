@@ -1,4 +1,3 @@
-baseURL = "https://example.edu"
 languageCode = "en-us"
 title = "Luca Di Stefano"
 theme = "avicenna"
@@ -7,9 +6,12 @@ ignoreErrors = ["error-disable-taxonomy"]
 disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "404"]
 
 [params]
-  subtitle= "Post-doctoral researcher"
+  subtitle = "Post-doctoral researcher at Inria"
+  #charset = "utf-8"
+  Description = "Post-doctoral researcher at Inria"
   interests="Software verification, Model checking, Multi-agent systems, Formal semantics, Process calculi"
-  cv_name= "files/LucaDiStefano_CV.pdf"
+  cv_name= "LucaDiStefano_CV.pdf"
+  picture_name = "profile.jpg"
   blog="http://lou1306.github.io/en"
 
 [[params.affilation]]
