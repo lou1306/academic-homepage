@@ -61,6 +61,33 @@ disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "4
   to = "October 2016"
   text="""Master's Degree in Computer and Systems Engineering at [DISIM](https://www.disim.univaq.it/) (University of L'Aquila, Italy)."""
 
+[[params.projects]]
+  [[params.projects.project]]
+    name = "SLiVER - A verification tool for LAbS systems"
+    description  = """
+SLiVER is a tool for the analysis of multi-agent systems specified in the LAbS language.
+Currently, it support under-approximate analysis via bounded model checking, or analisys
+of the full state space via explicit-state model checking. Moreover, the C programs
+generated from SLiVER can be analyzed with several other techniques.
+    """
+    code_link = "https://github.com/labs-lang/sliver"
+  
+  [[params.projects.project]]
+    name = "LAbS - A Language with Attribute-Based Stigmergies"
+    description  = """
+LAbS is a small language for multi-agent systems with stigmergic interaction.
+The term "stigmergy" denotes a mechanism that allows agents to influence
+each other's behavior by leaving traces in a shared medium.
+In LAbS, such medium is provided by a distributed data structure that also
+supports attribute-based constraints.
+Thus, specific conditions for interaction between agents can be expressed in
+the form of predicates over their exposed features.
+This combination allows to naturally model a wide selection of systems.
+    """
+    code_link = "https://github.com/labs-lang/labs"
+      
+
+
 
 [[params.publications]]
   year="2020"
@@ -96,3 +123,13 @@ disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "4
     dest  = "Frontiers in Robotics and Ai, vol. 5"
     link = "https://doi.org/10.3389/frobt.2018.00094"
     
+[[params.publications]]
+  year="2017"
+
+  [[params.publications.paper]]
+    name = "Reactive Obstacle Avoidance for Multicopter UAVs via Evaluation of Depth Maps"
+    authors = "Luca Di Stefano, Eliseo Clementini, Enrico Stagnini"
+    dest  = "COSIT Workshops and Posters 2017"
+    link = "https://doi.org/10.1007/978-3-319-63946-8_10"
+
+
