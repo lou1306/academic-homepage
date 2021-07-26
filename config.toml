@@ -13,6 +13,7 @@ disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "4
   cv_name= "LucaDiStefano_CV.pdf"
   picture_name = "profile.jpg"
   blog="http://lou1306.github.io/en"
+  dblp="https://dblp.uni-trier.de/pid/215/9758.html"
 
 [[params.affilation]]
   name = "INRIA and LIG, Grenoble"
@@ -46,6 +47,7 @@ disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "4
   text="""Holder of a research grant on "Verification of Emerging Properties in
       Collective Adaptive Systems" at [SysMA](https://sysma.imtlucca.it/) (IMT School for Advanced Studies, Lucca, Italy).
       """
+
 [[params.cv.paragraph]]
   from = "March 2019"
   to = "July 2019"
@@ -60,6 +62,21 @@ disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "4
   from = "March 2014"
   to = "October 2016"
   text="""Master's Degree in Computer and Systems Engineering at [DISIM](https://www.disim.univaq.it/) (University of L'Aquila, Italy)."""
+
+
+[[params.teaching.paragraph]]
+  from = "April 2021"
+  to = "May 2021"
+  text=""""Modelling and Verification", [Polytech Paris-Saclay](https://www.polytech.universite-paris-saclay.fr/).
+      36-hour course for Master students in Computer Science Engineering
+      (*filière apprentissage*). Held remotely as a supply teacher (*intervenant vacataire*). Topics:
+
+* Communicating automata, behavioural equivalences;
+* Timed automata;
+* Process algebras, temporal logics, model checking;
+* Model-based testing;
+* Lab sessions involving [UPPAAL](https://uppaal.org/), [CADP](https://cadp.inria.fr/), [TESTOR](http://convecs.inria.fr/software/testor/).
+      """
 
 [[params.projects]]
   [[params.projects.project]]
@@ -88,6 +105,15 @@ This combination allows to naturally model a wide selection of systems.
       
 
 
+
+[[params.publications]]
+  year="2021"
+
+  [[params.publications.paper]]
+    name = "Verifying temporal properties of stigmergic collective systems using CADP"
+    authors = "Luca Di Stefano, Frédéric Lang"
+    dest  = "ISoLA 2021 (To appear)"
+    link = "http://isola-conference.org/isola2021/"
 
 [[params.publications]]
   year="2020"
