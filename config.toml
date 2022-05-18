@@ -31,14 +31,22 @@ disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "4
   icon = "linkedin"
   url = "https://linkedin.com/in/lou1306/"
 
+
 [[params.introduction.paragraph]]
-  text="""My research focuses on the specification and analysis of complex
+  text="""
+  **Caveat**: as of 2022-04-30, this page is no longer
+  updated. Please visit my
+  [new academic homepage](https://example.com) or my
+  [personal web page](https://lou1306.github.io/en).
+
+  My research focuses on the specification and analysis of complex
   collective systems (such as multi-agent systems, robot swarms, stigmergies,
-  and so on) and their verification via state-of-the-art verification techniques. 
+  and so on) and their analysis via state-of-the-art verification techniques. 
    """
+
 [[params.cv.paragraph]]
   from = "November 2020"
-  to = "Now"
+  to = "April 2022"
   text="""Post-doctoral researcher at [CONVECS](https://convecs.inria.fr) (INRIA and LIG, Grenoble, France)."""
 
 [[params.cv.paragraph]]
@@ -63,6 +71,15 @@ disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "4
   to = "October 2016"
   text="""Master's Degree in Computer and Systems Engineering at [DISIM](https://www.disim.univaq.it/) (University of L'Aquila, Italy)."""
 
+
+[[params.teaching.paragraph]]
+  from = "March 2022"
+  to = "April 2022"
+  text=""""Modelling and Verification", [Polytech Paris-Saclay](https://www.polytech.universite-paris-saclay.fr/).
+      36-hour course for Master students in Computer Science Engineering
+      (*filière apprentissage*). Held as a supply teacher (*intervenant vacataire*). 
+
+      """
 
 [[params.teaching.paragraph]]
   from = "April 2021"
@@ -104,7 +121,14 @@ This combination allows to naturally model a wide selection of systems.
     code_link = "https://github.com/labs-lang/labs"
       
 
+[[params.publications]]
+  year="2022"
 
+  [[params.publications.paper]]
+    name = "Verification of Distributed Systems via Sequential Emulation"
+    authors = "Luca Di Stefano, Rocco De Nicola, Omar Inverso"
+    dest  = "ACM Transactions on Software Engineering and Methodology, vol. 31"
+    link = "https://doi.org/10.1145/3490387"
 
 [[params.publications]]
   year="2021"
@@ -112,8 +136,9 @@ This combination allows to naturally model a wide selection of systems.
   [[params.publications.paper]]
     name = "Verifying temporal properties of stigmergic collective systems using CADP"
     authors = "Luca Di Stefano, Frédéric Lang"
-    dest  = "ISoLA 2021 (To appear)"
-    link = "http://isola-conference.org/isola2021/"
+    dest  = "ISoLA 2021"
+    link = "https://doi.org/10.1007/978-3-030-89159-6_29"
+    pdf_link = "https://hal.inria.fr/hal-03385131/document"
 
 [[params.publications]]
   year="2020"
