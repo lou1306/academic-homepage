@@ -34,12 +34,12 @@ disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "4
 
 [[params.introduction.paragraph]]
   text="""
-  **Caveat**: as of 2022-04-30, this page is no longer
+  **Caveat**: as of 2022-05-31, this page is no longer
   updated. Please visit my
-  [new academic homepage](https://cse.chalmers.se/~lucad) or my
+  [new academic homepage](https://www.cse.chalmers.se/~lucad) or my
   [personal web page](https://lou1306.github.io/en).
 
-  My research focuses on the specification and analysis of complex
+  My research focuses on the specification of complex
   collective systems (such as multi-agent systems, robot swarms, stigmergies,
   and so on) and their analysis via state-of-the-art verification techniques. 
    """
