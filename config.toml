@@ -6,9 +6,9 @@ ignoreErrors = ["error-disable-taxonomy"]
 disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "404"]
 
 [params]
-  subtitle = "Post-doctoral researcher at Inria"
+  subtitle = "Post-doctoral researcher"
   #charset = "utf-8"
-  Description = "Post-doctoral researcher at Inria"
+  Description = "Post-doctoral researcher"
   interests="Software verification, Model checking, Multi-agent systems, Formal semantics, Process calculi"
   cv_name= "LucaDiStefano_CV.pdf"
   picture_name = "profile.jpg"
@@ -16,9 +16,9 @@ disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "4
   dblp="https://dblp.uni-trier.de/pid/215/9758.html"
 
 [[params.affilation]]
-  name = "INRIA and LIG, Grenoble"
-  position = "Post-doctoral researcher (CONVECS team)"
-  contact = "luca.di-stefano@inria.fr"
+  name = "Univeristy of Gothenburg and Chalmers"
+  position = "Post-doctoral researcher"
+  contact = "lucad@chalmers.se"
 
 
 [[params.social]]
@@ -34,15 +34,15 @@ disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "4
 
 [[params.introduction.paragraph]]
   text="""
-  **Caveat**: as of 2022-04-30, this page is no longer
-  updated. Please visit my
-  [new academic homepage](https://cse.chalmers.se/~lucad) or my
-  [personal web page](https://lou1306.github.io/en).
-
-  My research focuses on the specification and analysis of complex
+  My research focuses on the specification of complex
   collective systems (such as multi-agent systems, robot swarms, stigmergies,
   and so on) and their analysis via state-of-the-art verification techniques. 
    """
+
+[[params.cv.paragraph]]
+  from = "May 2022"
+  to = "Present time"
+  text="""Post-doctoral researcher at the [d-SynMA team](https://dsynma.bitbucket.io/) (University of Gothenburg and Chalmers, Gothenburg, Sweden)."""
 
 [[params.cv.paragraph]]
   from = "November 2020"
