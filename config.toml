@@ -125,6 +125,21 @@ This combination allows to naturally model a wide selection of systems.
   year="2022"
 
   [[params.publications.paper]]
+    name = "Process Algebras and Flocks of Birds"
+    authors = "Rocco De Nicola, Luca Di Stefano, Omar Inverso, Serenella Valiani"
+    dest  = """\
+    To appear in: \
+    A Journey From Process Algebra via Timed Automata to Model Learning - \
+    A Festschrift Dedicated to Frits Vaandrager on the Occasion of His 60th Birthday\
+    """
+
+  [[params.publications.paper]]
+    name = "Modelling Flocks of Birds from the Bottom Up"
+    authors = "Rocco De Nicola, Luca Di Stefano, Omar Inverso, Serenella Valiani"
+    dest  = "To appear in ISoLA 2022"
+    #link = "https://doi.org/10.1145/3490387"
+
+  [[params.publications.paper]]
     name = "Verification of Distributed Systems via Sequential Emulation"
     authors = "Luca Di Stefano, Rocco De Nicola, Omar Inverso"
     dest  = "ACM Transactions on Software Engineering and Methodology, vol. 31"
