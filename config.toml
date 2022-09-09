@@ -7,7 +7,7 @@ disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "4
 
 [params]
   subtitle = "Post-doctoral researcher"
-  #charset = "utf-8"
+  charset = "utf-8"
   Description = "Post-doctoral researcher"
   interests="Software verification, Model checking, Multi-agent systems, Formal semantics, Process calculi"
   cv_name= "LucaDiStefano_CV.pdf"
