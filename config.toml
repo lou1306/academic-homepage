@@ -125,13 +125,15 @@ This combination allows to naturally model a wide selection of systems.
   year="2022"
 
   [[params.publications.paper]]
+    name = "Automated replication of tuple spaces via static analysis"
+    authors = "Rocco De Nicola, Luca Di Stefano, Omar Inverso, Aline Uwimbabazi"
+    dest  = "Science of Computer Programming, vol. 223"
+    link = "https://doi.org/10.1016/j.scico.2022.102863"
+
+  [[params.publications.paper]]
     name = "Process Algebras and Flocks of Birds"
     authors = "Rocco De Nicola, Luca Di Stefano, Omar Inverso, Serenella Valiani"
-    dest  = """\
-    To appear in: \
-    A Journey From Process Algebra via Timed Automata to Model Learning - \
-    A Festschrift Dedicated to Frits Vaandrager on the Occasion of His 60th Birthday\
-    """
+    dest  = "To appear in a Festschrift"
 
   [[params.publications.paper]]
     name = "Modelling Flocks of Birds from the Bottom Up"
