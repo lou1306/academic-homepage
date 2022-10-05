@@ -133,7 +133,8 @@ This combination allows to naturally model a wide selection of systems.
   [[params.publications.paper]]
     name = "Process Algebras and Flocks of Birds"
     authors = "Rocco De Nicola, Luca Di Stefano, Omar Inverso, Serenella Valiani"
-    dest  = "To appear in a Festschrift"
+    dest  = "A journey from process algebra via timed automata to model learning - Essays dedicated to frits vaandrager on the occasion of his 60th birthday"
+    link = "https://doi.org/10.1007/978-3-031-15629-8_27"
 
   [[params.publications.paper]]
     name = "Modelling Flocks of Birds from the Bottom Up"
@@ -200,4 +201,14 @@ This combination allows to naturally model a wide selection of systems.
     dest  = "COSIT Workshops and Posters 2017"
     link = "https://doi.org/10.1007/978-3-319-63946-8_10"
 
+
+[[params.reports]]
+  year="2022"
+
+  [[params.reports.report]]
+    name = "Compositional Verification of Priority Systems using Sharp Bisimulation"
+    authors = "Luca Di Stefano, Frédéric Lang"
+    dest  = "INRIA Research report"
+    link = "https://hal.inria.fr/hal-03640683"
+    pdf_link = "https://hal.inria.fr/hal-03640683/document"
 
