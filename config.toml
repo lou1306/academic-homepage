@@ -120,6 +120,13 @@ This combination allows to naturally model a wide selection of systems.
     """
     code_link = "https://github.com/labs-lang/labs"
       
+[[params.publications]]
+  year="2023"
+
+  [[params.publications.paper]]
+    name = "Compositional verification of stigmergic collective systems"
+    authors = "Luca Di Stefano, Frédéric Lang"
+    dest  = "to appear in VMCAI 2023"
 
 [[params.publications]]
   year="2022"
@@ -139,7 +146,8 @@ This combination allows to naturally model a wide selection of systems.
   [[params.publications.paper]]
     name = "Modelling Flocks of Birds from the Bottom Up"
     authors = "Rocco De Nicola, Luca Di Stefano, Omar Inverso, Serenella Valiani"
-    dest  = "To appear in ISoLA 2022"
+    dest  = "ISoLA 2022"
+    link = "https://doi.org/10.1007/978-3-031-19759-8_6"
     #link = "https://doi.org/10.1145/3490387"
 
   [[params.publications.paper]]
