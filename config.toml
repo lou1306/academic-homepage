@@ -126,7 +126,9 @@ This combination allows to naturally model a wide selection of systems.
   [[params.publications.paper]]
     name = "Compositional verification of stigmergic collective systems"
     authors = "Luca Di Stefano, Frédéric Lang"
-    dest  = "to appear in VMCAI 2023"
+    dest  = "VMCAI 2023"
+    link = "https://doi.org/10.1007/978-3-031-24950-1_8"
+    pdf_link = "https://hal.inria.fr/hal-03869922"
 
 [[params.publications]]
   year="2022"
