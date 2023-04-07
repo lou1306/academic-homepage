@@ -128,7 +128,14 @@ This combination allows to naturally model a wide selection of systems.
     authors = "Luca Di Stefano, Frédéric Lang"
     dest  = "VMCAI 2023"
     link = "https://doi.org/10.1007/978-3-031-24950-1_8"
-    pdf_link = "https://hal.inria.fr/hal-03869922"
+    pdf_link = "./papers/vmcai2023.pdf"
+    slides_link = "./slides/vmcai2023.pdf"
+
+  [[params.publications.paper]]
+    name = "Compositional Verification of Priority Systems using Sharp Bisimulation"
+    authors = "Luca Di Stefano, Frédéric Lang"
+    dest  = "Formal Methods in System Design. To appear"
+
 
 [[params.publications]]
   year="2022"
@@ -138,18 +145,21 @@ This combination allows to naturally model a wide selection of systems.
     authors = "Rocco De Nicola, Luca Di Stefano, Omar Inverso, Aline Uwimbabazi"
     dest  = "Science of Computer Programming, vol. 223"
     link = "https://doi.org/10.1016/j.scico.2022.102863"
+    pdf_link = "./papers/scp2022.pdf"
 
   [[params.publications.paper]]
     name = "Process Algebras and Flocks of Birds"
     authors = "Rocco De Nicola, Luca Di Stefano, Omar Inverso, Serenella Valiani"
     dest  = "A journey from process algebra via timed automata to model learning - Essays dedicated to frits vaandrager on the occasion of his 60th birthday"
     link = "https://doi.org/10.1007/978-3-031-15629-8_27"
+    pdf_link = "./papers/vaandrager2022.pdf"
 
   [[params.publications.paper]]
     name = "Modelling Flocks of Birds from the Bottom Up"
     authors = "Rocco De Nicola, Luca Di Stefano, Omar Inverso, Serenella Valiani"
     dest  = "ISoLA 2022"
     link = "https://doi.org/10.1007/978-3-031-19759-8_6"
+    pdf_link = "./papers/isola2022.pdf"
     #link = "https://doi.org/10.1145/3490387"
 
   [[params.publications.paper]]
@@ -157,6 +167,7 @@ This combination allows to naturally model a wide selection of systems.
     authors = "Luca Di Stefano, Rocco De Nicola, Omar Inverso"
     dest  = "ACM Transactions on Software Engineering and Methodology, vol. 31"
     link = "https://doi.org/10.1145/3490387"
+    pdf_link = "./papers/tosem2022.pdf"
 
 [[params.publications]]
   year="2021"
