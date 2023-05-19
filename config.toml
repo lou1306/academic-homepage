@@ -134,7 +134,9 @@ This combination allows to naturally model a wide selection of systems.
   [[params.publications.paper]]
     name = "Compositional Verification of Priority Systems using Sharp Bisimulation"
     authors = "Luca Di Stefano, Frédéric Lang"
-    dest  = "Formal Methods in System Design. To appear"
+    dest  = "Formal Methods in System Design"
+    link = "https://doi.org/10.1007/s10703-023-00422-1"
+    pdf_link = "https://link.springer.com/content/pdf/10.1007/s10703-023-00422-1.pdf"
 
 
 [[params.publications]]
