@@ -138,6 +138,10 @@ This combination allows to naturally model a wide selection of systems.
     link = "https://doi.org/10.1007/s10703-023-00422-1"
     pdf_link = "https://link.springer.com/content/pdf/10.1007/s10703-023-00422-1.pdf"
 
+  [[params.publications.paper]]
+    name = "Modelling Flocks of Birds from the Bottom Up"
+    authors = "Rocco De Nicola, Luca Di Stefano, Omar Inverso, Serenella Valiani"
+    dest  = "Software Tools for Technology Transfer. To appear"
 
 [[params.publications]]
   year="2022"
