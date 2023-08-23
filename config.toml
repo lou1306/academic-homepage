@@ -287,6 +287,17 @@ with verification workflows (e.g., loading and replaying counterexamples).
 
 
 [[params.reports]]
+  year="2023"
+
+  [[params.reports.report]]
+    name = "LTL Synthesis on Infinite-State Arenas defined by Programs"
+    authors = "Shaun Azzopardi, Nir Piterman, Gerardo Schneider, Luca Di Stefano"
+    dest  = "ArXiv"
+    link = "https://arxiv.org/abs/2307.09776"
+    pdf_link = "https://arxiv.org/pdf/2307.09776.pdf"
+
+
+
   year="2022"
 
   [[params.reports.report]]
