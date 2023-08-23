@@ -88,6 +88,23 @@ disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "4
   to = "October 2016"
   text="""Master's Degree in Computer and Systems Engineering at [DISIM](https://www.disim.univaq.it/) (University of L'Aquila, Italy)."""
 
+[[params.teaching.paragraph]]
+  from = "January 2023"
+  to = "March 2023"
+  text=""""Principles of Concurrent Programming", [University of Gothenburg](https://www.gu.se/) and [Chalmers](https://www.chalmers.se).
+From the syllabus of the course: *This course aims to provide an introduction to the principles
+underlying concurrent systems, as well as to practical programming
+solutions for modeling and exploiting concurrency in programs. Domains
+where such principles and practices are relevant include operating
+systems, distributed systems, real-time systems, and multicore
+architectures.*
+Acted as one of the teaching assistants to course professor Gerardo Schneider.
+My duties included assisting students during lab hours, grading assignments and
+exams, an holding part of a tutorial on Erlang.
+
+  [Course homepage](https://www.cse.chalmers.se/edu/year/2021/course/TDA384_LP3/)
+"""
+
 
 [[params.teaching.paragraph]]
   from = "March 2022"
@@ -95,7 +112,6 @@ disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "4
   text=""""Modelling and Verification", [Polytech Paris-Saclay](https://www.polytech.universite-paris-saclay.fr/).
       36-hour course for Master students in Computer Science Engineering
       (*filière apprentissage*). Held as a supply teacher (*intervenant vacataire*). 
-
       """
 
 [[params.teaching.paragraph]]
@@ -155,6 +171,13 @@ with verification workflows (e.g., loading and replaying counterexamples).
   year="2023"
 
   [[params.publications.paper]]
+    name = "Intuitive Modelling and Formal Analysis of Collective Behaviour in Foraging Ants"
+    authors = "Rocco De Nicola, Luca Di Stefano, Omar Inverso, Serenella Valiani"
+    dest  = "To appear in CMSB 2023"
+    link = "https://cmsb2023.uni.lu/"
+    pdf_link = "./papers/cmsb2023.pdf"
+
+  [[params.publications.paper]]
     name = "Compositional verification of stigmergic collective systems"
     authors = "Luca Di Stefano, Frédéric Lang"
     dest  = "VMCAI 2023"
@@ -170,7 +193,7 @@ with verification workflows (e.g., loading and replaying counterexamples).
     pdf_link = "https://link.springer.com/content/pdf/10.1007/s10703-023-00422-1.pdf"
 
   [[params.publications.paper]]
-    name = "Modelling Flocks of Birds from the Bottom Up"
+    name = "Modelling Flocks of Birds and Colonies of Ants from the Bottom Up"
     authors = "Rocco De Nicola, Luca Di Stefano, Omar Inverso, Serenella Valiani"
     dest  = "Software Tools for Technology Transfer. To appear"
 
@@ -240,6 +263,7 @@ with verification workflows (e.g., loading and replaying counterexamples).
     authors = "Rocco De Nicola, Luca Di Stefano, Omar Inverso"
     dest  = "Science of Computer Programming, vol. 187"
     link = "https://doi.org/10.1016/j.scico.2019.102345"
+    pdf_link = "./papers/scp2020.pdf"
     
 [[params.publications]]
   year="2018"
