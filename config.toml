@@ -196,6 +196,7 @@ with verification workflows (e.g., loading and replaying counterexamples).
     name = "Modelling Flocks of Birds and Colonies of Ants from the Bottom Up"
     authors = "Rocco De Nicola, Luca Di Stefano, Omar Inverso, Serenella Valiani"
     dest  = "Software Tools for Technology Transfer. To appear"
+    pdf_link = "./papers/sttt2023.pdf"
 
 [[params.publications]]
   year="2022"
@@ -238,6 +239,7 @@ with verification workflows (e.g., loading and replaying counterexamples).
     dest  = "ISoLA 2021"
     link = "https://doi.org/10.1007/978-3-030-89159-6_29"
     pdf_link = "https://hal.inria.fr/hal-03385131/document"
+    slides_link = "./slides/isola2021.pdf"
 
 [[params.publications]]
   year="2020"
