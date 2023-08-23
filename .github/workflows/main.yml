@@ -33,5 +33,5 @@ jobs:
             server: 'remote11.chalmers.se'
             password: ${{ secrets.PWD }}
             local_path: 'public/*'
-            remote_path: 'wwwprova/www.cse.chalmers.se'
+            remote_path: 'www/www.cse.chalmers.se'
             sftpArgs: '-o ConnectTimeout=5'
