@@ -130,16 +130,6 @@ exams, an holding part of a tutorial on Erlang.
 
 [[params.projects]]
   [[params.projects.project]]
-    name = "SLiVER - A verification tool for LAbS systems"
-    description  = """
-SLiVER is a tool for the analysis of multi-agent systems specified in the LAbS language.
-Currently, it support under-approximate analysis via bounded model checking, or analisys
-of the full state space via explicit-state model checking. Moreover, the C programs
-generated from SLiVER can be analyzed with several other techniques.
-    """
-    code_link = "https://github.com/labs-lang/sliver"
-  
-  [[params.projects.project]]
     name = "LAbS - A Language with Attribute-Based Stigmergies"
     description  = """
 LAbS is a small language for multi-agent systems with stigmergic interaction.
@@ -152,7 +142,16 @@ the form of predicates over their exposed features.
 This combination allows to naturally model a wide selection of systems.
     """
     code_link = "https://github.com/labs-lang/labs"
-      
+
+  [[params.projects.project]]
+    name = "SLiVER - A verification tool for LAbS systems"
+    description  = """
+SLiVER is a tool for the analysis of multi-agent systems specified in the LAbS language.
+Currently, it support under-approximate analysis via bounded model checking, or analisys
+of the full state space via explicit-state model checking. Moreover, the C programs
+generated from SLiVER can be analyzed with several other techniques.
+    """
+    code_link = "https://github.com/labs-lang/sliver"
 
   [[params.projects.project]]
   name = "R-CHECK - Model checking of reconfigurable multi-agent systems"
@@ -165,6 +164,14 @@ My main focus is on development of the interpreter component and its integration
 with verification workflows (e.g., loading and replaying counterexamples).
   """
   code_link = "https://github.com/dSynMa/recipe"
+
+  [[params.projects.project]]
+  name = "chalmers_beamer_theme - Beamer theme for Chalmers (and GU) presentations"
+  description  = """
+A fork of `simonpf/chalmers_beamer_theme` that tries to imitate the most recent
+presentation templates from University of Gothenburg (GU) and Chalmers.
+    """
+    code_link = "https://github.com/lou1306/chalmers_beamer_theme"
 
 
 [[params.publications]]
