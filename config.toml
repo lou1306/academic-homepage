@@ -224,7 +224,7 @@ presentation templates from University of Gothenburg (GU) and Chalmers.
   [[params.publications.paper]]
     name = "Process Algebras and Flocks of Birds"
     authors = "Rocco De Nicola, Luca Di Stefano, Omar Inverso, Serenella Valiani"
-    dest  = "A journey from process algebra via timed automata to model learning - Essays dedicated to frits vaandrager on the occasion of his 60th birthday"
+    dest  = "A journey from process algebra via timed automata to model learning - Essays dedicated to Frits Vaandrager on the occasion of his 60th birthday"
     link = "https://doi.org/10.1007/978-3-031-15629-8_27"
     pdf_link = "./papers/vaandrager2022.pdf"
 
