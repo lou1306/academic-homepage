@@ -210,6 +210,7 @@ presentation templates from University of Gothenburg (GU) and Chalmers.
     name = "Language Support for Verifying Reconfigurable Interacting Systems"
     authors = "Yehia Abd Alrahman, Shaun Azzopardi, Luca Di Stefano, Nir Piterman"
     dest  = "Software Tools for Technology Transfer. To appear"
+    pdf_link = "./papers/sttt2023rcheck.pdf"
 
 [[params.publications]]
   year="2022"
