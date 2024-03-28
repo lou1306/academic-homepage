@@ -15,7 +15,7 @@ disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "4
   gravatar = "lucadistefano90@gmail.com"
 
 [[params.affilation]]
-  name = "Technische Universität Wien Wien"
+  name = "Technische Universität Wien"
   position = "University assistant (Post-doc)"
   contact = "luca.di.stefano@tuwien.ac.at"
 
