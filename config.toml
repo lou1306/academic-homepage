@@ -6,18 +6,18 @@ ignoreErrors = ["error-disable-taxonomy"]
 disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "404"]
 
 [params]
-  subtitle = "Post-doctoral researcher"
+  subtitle = "University assistant (Post-doc)"
   charset = "utf-8"
-  Description = "Post-doctoral researcher"
+  Description = "University assistant (Post-doc)"
   interests="Software verification, Model checking, Multi-agent systems, Formal semantics, Process calculi"
   cv_name= "LucaDiStefano_CV.pdf"
   picture_name = "profile.jpg"
   gravatar = "lucadistefano90@gmail.com"
 
 [[params.affilation]]
-  name = "University of Gothenburg and Chalmers"
-  position = "Post-doctoral researcher"
-  contact = "lucad@chalmers.se"
+  name = "Technische Universität Wien Wien"
+  position = "University assistant (Post-doc)"
+  contact = "luca.di.stefano@tuwien.ac.at"
 
 [[params.social]]
   name = "ResearchGate"
@@ -54,15 +54,16 @@ disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "4
   My research focuses on the specification of complex
   collective systems (such as multi-agent systems, robot swarms, stigmergies,
   and so on) and their analysis via state-of-the-art verification techniques. 
-
-  **NEWS** From March 2023 I will join the [Cyber Physical Systems research unit](https://informatics.tuwien.ac.at/orgs/e191-01)
-  at TU Wien, Vienna, Austria. I am truly thankful to Nir for my stay at GU/Chalmers
-  and wish all my colleagues at CSE enduring success in their research endeavours. Vi ses! :)
   """
 
 [[params.cv.paragraph]]
-  from = "May 2022"
+  from = "March 2024"
   to = "Present time"
+  text="""University assistant at the [CPS research unit](https://informatics.tuwien.ac.at/orgs/e191-01) (TU Wien, Vienna, Austria)."""
+
+[[params.cv.paragraph]]
+  from = "May 2022"
+  to = "February 2024"
   text="""Post-doctoral researcher at the [d-SynMA team](https://dsynma.bitbucket.io/) (University of Gothenburg and Chalmers, Gothenburg, Sweden)."""
 
 [[params.cv.paragraph]]
