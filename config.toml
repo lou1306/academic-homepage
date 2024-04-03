@@ -13,6 +13,7 @@ disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "4
   cv_name= "LucaDiStefano_CV.pdf"
   picture_name = "profile.jpg"
   gravatar = "lucadistefano90@gmail.com"
+  cloudflareAnalyticsToken = "210b34d79cb34404b8a1feb0c2ee18eb"
 
 [[params.affilation]]
   name = "Technische Universität Wien"
