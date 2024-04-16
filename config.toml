@@ -2,8 +2,9 @@ languageCode = "en-us"
 title = "Luca Di Stefano"
 theme = "zampano"
 timeout=3000
-ignoreErrors = ["error-disable-taxonomy"]
-disableKinds = ["section", "RSS", "taxonomy", "term", "sitemap", "robotsTXT", "404"]
+disableKinds = ["RSS", "term"]
+baseURL = "https://www.lucadistefano.eu"
+
 
 [params]
   subtitle = "University assistant (Post-doc)"
