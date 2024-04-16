@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+
+<div class="header wrapper">
+  <h5 class="page_title">
+    {{ .Date.Format "January 2, 2006" }}
+  </h5>
+</div>
+
+<div class="content wrapper">
+  <p>{{ .Title | markdownify }}</p>
+  {{ .Content }}
+  <small><a class="code" href="{{ .Site.BaseURL }}" title="Home">[Return Home]</a></small>
+</div>
+
+{{end}}
