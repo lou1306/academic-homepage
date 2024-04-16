@@ -10,7 +10,10 @@
 <div class="content wrapper">
   <p>{{ .Title | markdownify }}</p>
   {{ .Content }}
-  <small><a class="code" href="{{ .Site.BaseURL }}" title="Home">[Return Home]</a></small>
+  <small>
+    <a class="code" href="{{ .Site.BaseURL }}" title="Home">[Return Home]</a>
+    <a class="code" href="{{ absURL "news" }}" title="Archive">[News Archive]</a>
+  </small>
 </div>
 
 {{end}}

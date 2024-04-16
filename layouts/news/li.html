@@ -1,0 +1,4 @@
+<li>{{.Date.Format "2006-01-02" }}: {{ .Title | markdownify }}
+    {{ if .Content }}<small><a class="code" href="{{ .RelPermalink }}">[Read more]</a></small>
+    {{end}}
+</li>
