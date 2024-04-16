@@ -3,6 +3,7 @@
         <h4>{{ .Title }}</h4>
     </header>
 
+    <div class="content wrapper">
     {{ with .Content }}
     <p>{{ . }}</p>
     {{ end }}
@@ -12,7 +13,11 @@
             {{ .Render "li" }}
         {{ end }}
     </ul>
-    <hr/>
+
+    <small>
+        <a class="code" href="{{ .Site.BaseURL }}" title="Home">[Return Home]</a>
+    </small>
+    </div>
 
     
 {{- end }}
