@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/lou1306
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://lucadistefano.eu
+  * I am lou1306 (https://keybase.io/lou1306) on keybase.
+  * I have a public key ASCa9rVUEqich9JxPUT9FLVOeH7hih5mnHPGHrPFPNXxogo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e7c808d28f571733a2f14aa56be612052713cbc5ed0a34b2e6f1c162d644d6490a",
+      "host": "keybase.io",
+      "kid": "01209af6b55412a89c87d2713d44fd14b54e787ee18a1e669c73c61eb3c53cd5f1a20a",
+      "uid": "f38f7fb7e8ca0e618504831c7fbbb919",
+      "username": "lou1306"
+    },
+    "merkle_root": {
+      "ctime": 1713775602,
+      "hash": "baff61705e3bab3837452de01dcae6c28ae26285a69f74cb268019124e65a5249aaa866897b56bf86bba91e9b0f68543fcd5b3f2950e56d63e2403c234853598",
+      "hash_meta": "9cab006a03abf8ba5331aff1a1573061cb0cc9d7ec19dd860316adf8b99fa207",
+      "seqno": 25664388
+    },
+    "service": {
+      "entropy": "MQZthTgBAUJV0EzaHWtYQj1m",
+      "hostname": "lucadistefano.eu",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.8"
+  },
+  "ctime": 1713775664,
+  "expire_in": 504576000,
+  "prev": "f33c2f6a7871d7caa3ad57afc5212a47992b06cac78fa27bfe764b003d0a2910",
+  "seqno": 56,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmva1VBKonIfScT1E/RS1Tnh+4YoeZpxzxh6zxTzV8aIKp3BheWxvYWTESpcCOMQg8zwvanhx18qjrVevxSEqR5krBsrHj6J7/nZLAD0KKRDEIK+1x2qFKQbRcW5JLyrE+8coBSrsL1EnyTjexS9CTNm/AgHCo3NpZ8RACKORdOSrashEPfm/WMv9toa2+x0L/TpoZh9J1rCtyUj7pS7M3EZ2NiFzs3QHgoFeELS/4qKL6rFM88elNQa5B6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGOaAGJxZta1aDCFS23Z776sa6UzqDk3ybUT1P+tzyojo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lou1306
+
+==================================================================
