@@ -99,8 +99,6 @@ baseURL = "https://www.lucadistefano.eu"
   from = "August 2023"
   to = "October 2023"
   text=""""Principles of Concurrent Programming", [University of Gothenburg](https://www.gu.se/) and [Chalmers](https://www.chalmers.se).
-
-
 Acted as one of the teaching assistants to course professor Nir Piterman.
 See below for further information about the course.
 
@@ -109,7 +107,6 @@ See below for further information about the course.
   from = "January 2023"
   to = "March 2023"
   text=""""Principles of Concurrent Programming", [University of Gothenburg](https://www.gu.se/) and [Chalmers](https://www.chalmers.se).
-
 Acted as one of the teaching assistants to course professor Gerardo Schneider.
 My duties included assisting students during lab hours, grading assignments and
 exams, an holding part of a tutorial on Erlang.
@@ -129,7 +126,6 @@ architectures.*
   text=""""Modelling and Verification", [Polytech Paris-Saclay](https://www.polytech.universite-paris-saclay.fr/).
       36-hour course for Master students in Computer Science Engineering
       (*filière apprentissage*). Held as a supply teacher (*intervenant vacataire*). 
-
 See below for further information about the course.
       """
 
