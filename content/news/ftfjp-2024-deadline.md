@@ -1,6 +1,5 @@
 ---
 date: 2024-06-17T10:51:49+02:00
-draft: true
 type: "news"
 title: "Deadline extension for [FTfJP'24](https://conf.researchr.org/home/issta-ecoop-2024/FTfJP-2024)."
 ---
