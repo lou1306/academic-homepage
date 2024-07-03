@@ -2,7 +2,7 @@ languageCode = "en-us"
 title = "Luca Di Stefano"
 theme = "zampano"
 timeout=3000
-disableKinds = ["RSS", "term"]
+disableKinds = ["term"]
 baseURL = "https://www.lucadistefano.eu"
 
 
