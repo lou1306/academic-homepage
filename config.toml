@@ -199,6 +199,24 @@ presentation templates from University of Gothenburg (GU) and Chalmers.
     """
     code_link = "https://github.com/lou1306/chalmers_beamer_theme"
 
+[[params.publications]]
+  year="2024"
+  [[params.publications.paper]]
+    name = "Compositional Verification of Priority Systems using Sharp Bisimulation"
+    authors = "Luca Di Stefano, Frédéric Lang"
+    dest  = "Formal Methods in System Design 62"
+    link = "https://doi.org/10.1007/s10703-023-00422-1"
+    pdf_link = "https://link.springer.com/content/pdf/10.1007/s10703-023-00422-1.pdf"
+
+  [[params.publications.paper]]
+    name = "Emerging Synchrony in Applauding Audiences: Formal Analysis and Specification"
+    authors = "Luca Di Stefano, Omar Inverso"
+    dest  = "ISoLA 2024 (To appear)"
+
+  [[params.publications.paper]]
+    name = "Attributed Point-to-Point Communication in R-CHECK"
+    authors = "Yehia Abd Alrahman, Shaun Azzopardi, Luca Di Stefano, Nir Piterman"
+    dest  = "ISoLA 2024 (To appear)"
 
 [[params.publications]]
   year="2023"
@@ -219,24 +237,18 @@ presentation templates from University of Gothenburg (GU) and Chalmers.
     pdf_link = "./papers/vmcai2023.pdf"
     slides_link = "./slides/vmcai2023.pdf"
 
-  [[params.publications.paper]]
-    name = "Compositional Verification of Priority Systems using Sharp Bisimulation"
-    authors = "Luca Di Stefano, Frédéric Lang"
-    dest  = "Formal Methods in System Design"
-    link = "https://doi.org/10.1007/s10703-023-00422-1"
-    pdf_link = "https://link.springer.com/content/pdf/10.1007/s10703-023-00422-1.pdf"
 
   [[params.publications.paper]]
     name = "Modelling Flocks of Birds and Colonies of Ants from the Bottom Up"
     authors = "Rocco De Nicola, Luca Di Stefano, Omar Inverso, Serenella Valiani"
-    dest  = "Software Tools for Technology Transfer"
+    dest  = "Software Tools for Technology Transfer 25"
     link = "https://doi.org/10.1007/s10009-023-00731-0"
     pdf_link = "./papers/sttt2023.pdf"
 
   [[params.publications.paper]]
     name = "Language Support for Verifying Reconfigurable Interacting Systems"
     authors = "Yehia Abd Alrahman, Shaun Azzopardi, Luca Di Stefano, Nir Piterman"
-    dest = "Software Tools for Technology Transfer"
+    dest = "Software Tools for Technology Transfer 25"
     link = "https://doi.org/10.1007/s10009-023-00729-8"
     pdf_link = "./papers/sttt2023rcheck.pdf"
 
@@ -246,7 +258,7 @@ presentation templates from University of Gothenburg (GU) and Chalmers.
   [[params.publications.paper]]
     name = "Automated replication of tuple spaces via static analysis"
     authors = "Rocco De Nicola, Luca Di Stefano, Omar Inverso, Aline Uwimbabazi"
-    dest  = "Science of Computer Programming, vol. 223"
+    dest  = "Science of Computer Programming 223"
     link = "https://doi.org/10.1016/j.scico.2022.102863"
     pdf_link = "./papers/scp2022.pdf"
 
@@ -268,7 +280,7 @@ presentation templates from University of Gothenburg (GU) and Chalmers.
   [[params.publications.paper]]
     name = "Verification of Distributed Systems via Sequential Emulation"
     authors = "Luca Di Stefano, Rocco De Nicola, Omar Inverso"
-    dest  = "ACM Transactions on Software Engineering and Methodology, vol. 31"
+    dest  = "ACM Transactions on Software Engineering and Methodology 31"
     link = "https://doi.org/10.1145/3490387"
     pdf_link = "./papers/tosem2022.pdf"
 
@@ -305,7 +317,7 @@ presentation templates from University of Gothenburg (GU) and Chalmers.
   [[params.publications.paper]]
     name = "Multi-agent systems with virtual stigmergy"
     authors = "Rocco De Nicola, Luca Di Stefano, Omar Inverso"
-    dest  = "Science of Computer Programming, vol. 187"
+    dest  = "Science of Computer Programming 187"
     link = "https://doi.org/10.1016/j.scico.2019.102345"
     pdf_link = "./papers/scp2020.pdf"
     
@@ -315,7 +327,7 @@ presentation templates from University of Gothenburg (GU) and Chalmers.
   [[params.publications.paper]]
     name = "Toward Formal Models and Languages for Verifiable Multi-Robot Systems"
     authors = "Rocco De Nicola, Luca Di Stefano, Omar Inverso"
-    dest  = "Frontiers in Robotics and Ai, vol. 5"
+    dest  = "Frontiers in Robotics and AI 5"
     link = "https://doi.org/10.3389/frobt.2018.00094"
     
 [[params.publications]]
