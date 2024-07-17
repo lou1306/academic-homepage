@@ -96,6 +96,17 @@ baseURL = "https://www.lucadistefano.eu"
   text="""Master's Degree in Computer and Systems Engineering at [DISIM](https://www.disim.univaq.it/) (University of L'Aquila, Italy)."""
 
 [[params.teaching.paragraph]]
+  from = "April 2024"
+  to = "July 2024"
+  text=""""GPU Architectures and Computing", [TU Wien](https://www.tuwien.ac.at/)  ([course Web page](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=1134&dsrid=838&courseNr=182731&semester=2024S&locale=en)).
+Teaching assistant (approx. 30 hours).
+The course aimed ad understanding GPU computer architectures,
+becoming familiar with GPU programming models and environments, and solving
+problems through GPU programming (CUDA).
+I assisted in supervision and grading of group assignments related to the course.
+"""
+
+[[params.teaching.paragraph]]
   from = "August 2023"
   to = "October 2023"
   text=""""Principles of Concurrent Programming", [University of Gothenburg](https://www.gu.se/) and [Chalmers](https://www.chalmers.se).
@@ -109,7 +120,7 @@ See below for further information about the course.
   text=""""Principles of Concurrent Programming", [University of Gothenburg](https://www.gu.se/) and [Chalmers](https://www.chalmers.se).
 Acted as one of the teaching assistants to course professor Gerardo Schneider.
 My duties included assisting students during lab hours, grading assignments and
-exams, an holding part of a tutorial on Erlang.
+exams, an holding part of a tutorial on Erlang. 
 
 From the syllabus of the course: *This course aims to provide an introduction to the principles
 underlying concurrent systems, as well as to practical programming
