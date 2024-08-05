@@ -185,11 +185,22 @@ generated from SLiVER can be analyzed with several other techniques.
 The R-CHECK tool includes a language to specify reconfigurable multi-agent
 systems, and supports model checking of thesespecifications through the
 state-of-the-art model checker nuXmv.
-R-CHECK is being developed as part of the D-SynMA project led by Nir Piterman.
+R-CHECK is being developed as part of the D-SynMA project led by Nir Piterman,
+and the SynTM research grant held by Yehia Abd Alrahman.
 My main focus is on development of the interpreter component and its integration
 with verification workflows (e.g., loading and replaying counterexamples).
   """
   code_link = "https://github.com/dSynMa/recipe"
+
+
+  [[params.projects.project]]
+  name = "sweap - A symbolic approach to reactive synthesis"
+  description = """
+sweap is a prototype tool that implements a symbolic approach to reactive synthesis. The setting is that of an arena defined as a symbolic automaton, possibly infinite-state, and an LTL (modulo theories) objective. The output is a controller or counterstrategy in HOA format.
+Currently the only theory implemented is that of Linear Integer Arithmetic.
+I collaborated with lead developer Shaun Azzopardi in the implementation of the tool.
+  """
+  code_link = "https://github.com/shaunazzopardi/sweap"
 
   [[params.projects.project]]
   name = "chalmers_beamer_theme - Beamer theme for Chalmers (and GU) presentations"
@@ -212,11 +223,13 @@ presentation templates from University of Gothenburg (GU) and Chalmers.
     name = "Emerging Synchrony in Applauding Audiences: Formal Analysis and Specification"
     authors = "Luca Di Stefano, Omar Inverso"
     dest  = "ISoLA 2024 (To appear)"
+    pdf_link = "./papers/isola2024.pdf"
 
   [[params.publications.paper]]
     name = "Attributed Point-to-Point Communication in R-CHECK"
     authors = "Yehia Abd Alrahman, Shaun Azzopardi, Luca Di Stefano, Nir Piterman"
     dest  = "ISoLA 2024 (To appear)"
+    pdf_link = "./papers/isola2024rcheck.pdf"
 
 [[params.publications]]
   year="2023"
