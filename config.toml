@@ -203,12 +203,21 @@ I collaborated with lead developer Shaun Azzopardi in the implementation of the 
   code_link = "https://github.com/shaunazzopardi/sweap"
 
   [[params.projects.project]]
-  name = "chalmers_beamer_theme - Beamer theme for Chalmers (and GU) presentations"
-  description  = """
-A fork of `simonpf/chalmers_beamer_theme` that tries to imitate the most recent
-presentation templates from University of Gothenburg (GU) and Chalmers.
-    """
-    code_link = "https://github.com/lou1306/chalmers_beamer_theme"
+  name = "pyXmv -  (Unofficial) Python interface to nuXmv"
+  description = """
+pyxmv is a (very much WIP) Python wrapper for the nuXmv model checker. It
+aims at providing APIs for several features (LTL model checking, simulation,
+etc.), and comes with a small command-line tool to showcase its capabilities.
+  """
+  code_link = "https://github.com/lou1306/pyxmv"
+
+#  [[params.projects.project]]
+#  name = "chalmers_beamer_theme - Beamer theme for Chalmers (and GU) presentations"
+#  description  = """
+#A fork of `simonpf/chalmers_beamer_theme` that tries to imitate the most recent
+#presentation templates from University of Gothenburg (GU) and Chalmers.
+#    """
+#    code_link = "https://github.com/lou1306/chalmers_beamer_theme"
 
 [[params.publications]]
   year="2024"
