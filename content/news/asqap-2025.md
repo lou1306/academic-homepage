@@ -7,7 +7,7 @@ title: "I have joined the [ASQAP 2025](https://asqap.github.io/asqap2025/) progr
 ASQAP'25 is the 
 First International Workshop on Autonomous System Quality Assurance and
 Prediction with Digital Twins.
-It will co-located with ETAPS 2020 in Hamilton, Canada.
+It will be co-located with ETAPS 2020 in Hamilton, Canada.
 
 From the workshop's [Web page](https://asqap.github.io/asqap2025/):
 
