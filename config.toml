@@ -232,6 +232,7 @@ etc.), and comes with a small command-line tool to showcase its capabilities.
     name = "Emerging Synchrony in Applauding Audiences: Formal Analysis and Specification"
     authors = "Luca Di Stefano, Omar Inverso"
     dest  = "ISoLA 2024 (To appear)"
+    link = "https://doi.org/10.1007/978-3-031-73709-1_16"
     pdf_link = "./papers/isola2024.pdf"
 
   [[params.publications.paper]]
