@@ -239,6 +239,7 @@ etc.), and comes with a small command-line tool to showcase its capabilities.
     name = "Attributed Point-to-Point Communication in R-CHECK"
     authors = "Yehia Abd Alrahman, Shaun Azzopardi, Luca Di Stefano, Nir Piterman"
     dest  = "ISoLA 2024 (To appear)"
+    link = "https://doi.org/10.1007/978-3-031-75107-3_20"
     pdf_link = "./papers/isola2024rcheck.pdf"
 
 [[params.publications]]
