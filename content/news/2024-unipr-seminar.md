@@ -1,6 +1,5 @@
 ---
 date: 2024-11-07T14:04:18+01:00
-draft: true
 type: "news"
 title: "On Dec 9, 2024 I will be giving an [invited seminar](https://www.unipr.it/node/106652) at University of Parma, Italy."
 ---
