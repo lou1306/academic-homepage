@@ -231,14 +231,15 @@ etc.), and comes with a small command-line tool to showcase its capabilities.
   [[params.publications.paper]]
     name = "Emerging Synchrony in Applauding Audiences: Formal Analysis and Specification"
     authors = "Luca Di Stefano, Omar Inverso"
-    dest  = "ISoLA 2024 (To appear)"
+    dest  = "ISoLA 2024"
     link = "https://doi.org/10.1007/978-3-031-73709-1_16"
     pdf_link = "./papers/isola2024.pdf"
+    slides_link = "./slides/isola2024.pdf"
 
   [[params.publications.paper]]
     name = "Attributed Point-to-Point Communication in R-CHECK"
     authors = "Yehia Abd Alrahman, Shaun Azzopardi, Luca Di Stefano, Nir Piterman"
-    dest  = "ISoLA 2024 (To appear)"
+    dest  = "ISoLA 2024"
     link = "https://doi.org/10.1007/978-3-031-75107-3_20"
     pdf_link = "./papers/isola2024rcheck.pdf"
 
