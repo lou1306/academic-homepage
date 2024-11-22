@@ -15,7 +15,7 @@ hardware design, and has seen increasing adoption in the software domain as
 well. This required a number of theoretical breakthroughs, due to the large
 state spaces that even modest programs exhibit. This seminar will provide an
 overview of model checking approaches to software verification. We will start
-from the basics and then discuss a few more advanced procedure that have been
+from the basics and then discuss a few more advanced procedures that have been
 devised to tackle programs with large (or infinite) state spaces. Lastly, we
 show how these solutions may also enable automated reasoning on "complex
 adaptive systems". These are collections of autonomous, interacting agents
