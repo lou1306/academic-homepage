@@ -23,3 +23,6 @@ which may display emergent collective behaviour (think about flocks of birds or
 colonies of ants).
 
 Many thanks to [Vincenzo Arceri](https://vincenzoarceri.github.io/) for inviting me!
+
+**Update**: Slides from the seminar are available [here](/slides/parma2024.pdf).
+

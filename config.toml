@@ -364,6 +364,16 @@ etc.), and comes with a small command-line tool to showcase its capabilities.
     dest  = "COSIT Workshops and Posters 2017"
     link = "https://doi.org/10.1007/978-3-319-63946-8_10"
 
+[[params.reports]]
+  year="2024"
+
+  [[params.reports.report]]
+    name = "Software verification: from programs to complex systems"
+    authors = "Luca Di Stefano"
+    dest  = "Invited seminar. University of Parma, Italy"
+    link = "https://www.unipr.it/node/106652"
+    slides_link = "./slides/parma2024.pdf"
+
 
 [[params.reports]]
   year="2023"
@@ -375,8 +385,7 @@ etc.), and comes with a small command-line tool to showcase its capabilities.
     link = "https://arxiv.org/abs/2307.09776"
     pdf_link = "https://arxiv.org/pdf/2307.09776.pdf"
 
-
-
+[[params.reports]]
   year="2022"
 
   [[params.reports.report]]
@@ -386,3 +395,11 @@ etc.), and comes with a small command-line tool to showcase its capabilities.
     link = "https://hal.inria.fr/hal-03640683"
     pdf_link = "https://hal.inria.fr/hal-03640683/document"
 
+[[params.reports]]
+  year="2019"
+
+  [[params.reports.report]]
+    name = "Multi-Agent (Smart) Systems with Virtual Stigmergies"
+    authors = "Rocco De Nicola, Luca Di Stefano, Omar Inverso"
+    dest  = "[IT-MATTERS project](http://itmatters.imtlucca.it/description/) kickoff meeting. Pisa, Italy"
+    slides_link = "./slides/pisa2019.pdf"
