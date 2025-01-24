@@ -10,7 +10,7 @@ baseURL = "https://www.lucadistefano.eu"
   subtitle = "University assistant (Post-doc)"
   charset = "utf-8"
   Description = "University assistant (Post-doc)"
-  interests="Software verification, Model checking, Multi-agent systems, Formal semantics, Process calculi"
+  interests="Software verification, Model checking, Multi-agent systems, Formal semantics, Process calculi, Static analysis"
   cv_name= "LucaDiStefano_CV.pdf"
   picture_name = "profile.jpg"
   gravatar = "lucadistefano90@gmail.com"
@@ -56,6 +56,18 @@ baseURL = "https://www.lucadistefano.eu"
   My research focuses on the specification of complex
   collective systems (such as multi-agent systems, robot swarms, stigmergies,
   and so on) and their analysis via state-of-the-art verification techniques. 
+  I am also working on reactive synthesis and online formal techniques,
+  such as runtime monitoring.
+  """
+
+[[params.introduction.paragraph]]
+  text="""
+  **Thesis supervision.**
+  I am open to supervise BSc and MSc theses at TU Wien.
+  For bureaucratic reasons, the main advisor would be professor [Ezio Bartocci](https://www.eziobartocci.com).
+  Some proposals are already available on [TISS](https://tiss.tuwien.ac.at/thesis/theses.xhtml?dswid=1688&dsrid=150)
+  (look up my last name).
+  I am also open to discuss project proposals that overlap with my interests.
   """
 
 [[params.cv.paragraph]]
