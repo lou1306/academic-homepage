@@ -108,10 +108,27 @@ baseURL = "https://www.lucadistefano.eu"
   text="""Master's Degree in Computer and Systems Engineering at [DISIM](https://www.disim.univaq.it/) (University of L'Aquila, Italy)."""
 
 [[params.teaching.paragraph]]
+  from = "March 2025"
+  to = "June 2025 (proj.)"
+  text = """Scientific Research and Writing, [TU Wien](https://www.tuwien.ac.at/).
+
+  Introduction to science and the operation of the scientific community; based on a self-chosen or a given topic,
+  students practice developing a research question, performing a literature search, basic skills of scientific writing,
+  and giving a scientific presentation.
+  """
+
+[[params.teaching.paragraph]]
+  from = "March 2025"
+  to = "June 2025 (proj.)"
+  text=""""GPU Architectures and Computing", [TU Wien](https://www.tuwien.ac.at/)  ([course Web page](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=2885&dsrid=3&semester=2025S&courseNr=182731)).
+  See below for further information.
+  """
+
+[[params.teaching.paragraph]]
   from = "April 2024"
   to = "July 2024"
   text=""""GPU Architectures and Computing", [TU Wien](https://www.tuwien.ac.at/)  ([course Web page](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=1134&dsrid=838&courseNr=182731&semester=2024S&locale=en)).
-Teaching assistant (approx. 30 hours).
+Teaching assistant (approx. 30 hours); course held by professor Ezio Bartocci.
 The course aimed ad understanding GPU computer architectures,
 becoming familiar with GPU programming models and environments, and solving
 problems through GPU programming (CUDA).
@@ -230,6 +247,13 @@ etc.), and comes with a small command-line tool to showcase its capabilities.
 #presentation templates from University of Gothenburg (GU) and Chalmers.
 #    """
 #    code_link = "https://github.com/lou1306/chalmers_beamer_theme"
+
+[[params.publications]]
+  year="2025"
+  [[params.publications.paper]]
+    name = "Full LTL Synthesis over Infinite-state Arenas"
+    authors = "Shaun Azzopardi, Luca Di Stefano, Nir Piterman, Gerardo Schneider"
+    dest = "CAV 2025 (To appear)"
 
 [[params.publications]]
   year="2024"
