@@ -415,6 +415,13 @@ etc.), and comes with a small command-line tool to showcase its capabilities.
   year="2023"
 
   [[params.reports.report]]
+    name = "Evaluating in-memory caching strategies for distributed Web services"
+    authors = "Love Lyckaro"
+    dest = "Master's thesis. Chalmers University of Technology and University of Gothenburg, Sweden"
+    link = "http://hdl.handle.net/20.500.12380/307480"
+    pdf_link = "https://odr.chalmers.se/server/api/core/bitstreams/6a0bd79e-9fee-443b-b5a6-1d439a33dcd4/content"
+
+  [[params.reports.report]]
     name = "LTL Synthesis on Infinite-State Arenas defined by Programs"
     authors = "Shaun Azzopardi, Nir Piterman, Gerardo Schneider, Luca Di Stefano"
     dest  = "ArXiv"
