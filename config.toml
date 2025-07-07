@@ -401,6 +401,15 @@ etc.), and comes with a small command-line tool to showcase its capabilities.
     link = "https://doi.org/10.1007/978-3-319-63946-8_10"
 
 [[params.reports]]
+  year="2025"
+
+  [[params.reports.report]]
+    name = "Type checking a novel language for reconfigurable multi-agent systems"
+    authors = "Benjamin Stolz"
+    dest = "Bachelor's thesis. TU Wien, Austria"
+    pdf_link = "./theses/bsc_stolz_2025.pdf"
+
+[[params.reports]]
   year="2024"
 
   [[params.reports.report]]
