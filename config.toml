@@ -51,6 +51,12 @@ baseURL = "https://www.lucadistefano.eu"
   icon = "orcid"
   url = "https://orcid.org/0000-0003-1922-3151"
 
+[[params.social]]
+  name = "BSky"
+  icon = "bsky"
+  url = "https://bsky.app/profile/lucadistefano.eu"
+
+
 [[params.introduction.paragraph]]
   text="""
   My research focuses on the specification of complex
@@ -240,13 +246,13 @@ etc.), and comes with a small command-line tool to showcase its capabilities.
   """
   code_link = "https://github.com/lou1306/pyxmv"
 
-#  [[params.projects.project]]
-#  name = "chalmers_beamer_theme - Beamer theme for Chalmers (and GU) presentations"
-#  description  = """
-#A fork of `simonpf/chalmers_beamer_theme` that tries to imitate the most recent
-#presentation templates from University of Gothenburg (GU) and Chalmers.
-#    """
-#    code_link = "https://github.com/lou1306/chalmers_beamer_theme"
+  [[params.projects.project]]
+  name = "hoax -  Execution and monitoring of HOA automata"
+  description = """
+HOAX (HOA eXecutor) executes one or more automata expressed in HOA format.
+Execution may be customised in several ways by means of configuration files.
+  """
+  code_link = "https://github.com/lou1306/hoax"
 
 [[params.publications]]
   year="2025"
