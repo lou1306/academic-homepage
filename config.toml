@@ -251,9 +251,17 @@ etc.), and comes with a small command-line tool to showcase its capabilities.
 [[params.publications]]
   year="2025"
   [[params.publications.paper]]
+    name = "Execution and monitoring of HOA automata with HOAX"
+    authors = "Luca Di Stefano"
+    dest = "RV 2025 (To appear)"
+    pdf_link = "https://arxiv.org/pdf/2507.11126"
+
+  [[params.publications.paper]]
     name = "Full LTL Synthesis over Infinite-state Arenas"
     authors = "Shaun Azzopardi, Luca Di Stefano, Nir Piterman, Gerardo Schneider"
-    dest = "CAV 2025 (To appear)"
+    dest = "CAV 2025"
+    link = "https://doi.org/10.1007/978-3-031-98685-7_13"
+    pdf_link = "https://link.springer.com/content/pdf/10.1007/978-3-031-98685-7_13.pdf"
 
 [[params.publications]]
   year="2024"
