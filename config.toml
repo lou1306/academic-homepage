@@ -259,7 +259,8 @@ Execution may be customised in several ways by means of configuration files.
   [[params.publications.paper]]
     name = "Execution and monitoring of HOA automata with HOAX"
     authors = "Luca Di Stefano"
-    dest = "RV 2025 (To appear)"
+    dest = "RV 2025"
+    link = "https://doi.org/10.1007/978-3-032-05435-7_3"
     pdf_link = "https://arxiv.org/pdf/2507.11126"
 
   [[params.publications.paper]]
