@@ -262,6 +262,7 @@ Execution may be customised in several ways by means of configuration files.
     dest = "RV 2025"
     link = "https://doi.org/10.1007/978-3-032-05435-7_3"
     pdf_link = "https://arxiv.org/pdf/2507.11126"
+    slides_link = "./slides/rv2025.pdf"
 
   [[params.publications.paper]]
     name = "Full LTL Synthesis over Infinite-state Arenas"
@@ -417,6 +418,12 @@ Execution may be customised in several ways by means of configuration files.
 
 [[params.reports]]
   year="2025"
+  [[params.reports.report]]
+    name = "Reactive synthesis of LTL objectives on infinite arenas"
+    authors = "Luca Di Stefano (joint work with S. Azzopardi, N. Piterman, G. Schneider)"
+    dest  = "Presentation (from CAV'25) at the VASSAL Workshop 2025. Graz, Austria"
+    link = "https://vassal.fit.vut.cz/vassal-workshop-on-software-verification-and-runtime-analysis"
+    slides_link = "./slides/vassal2025.pdf"
 
   [[params.reports.report]]
     name = "Type checking a novel language for reconfigurable multi-agent systems"
