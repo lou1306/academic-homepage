@@ -194,10 +194,10 @@ See below for further information about the course.
     name = "LAbS - A Language with Attribute-Based Stigmergies"
     description  = """
 LAbS is a small language for multi-agent systems with stigmergic interaction.
-The term "stigmergy" denotes a mechanism that allows agents to influence
-each other's behavior by leaving traces in a shared medium.
-In LAbS, such medium is provided by a distributed data structure that also
-supports attribute-based constraints.
+"Stigmergy" is a mechanism by which agents influence other agents'
+behavior by leaving traces on a shared medium. This is commonplace in biology.
+In LAbS, the medium is a distributed key-value store that also
+supports attribute-based constraints on participants.
 Thus, specific conditions for interaction between agents can be expressed in
 the form of predicates over their exposed features.
 This combination allows to naturally model a wide selection of systems.
@@ -207,8 +207,8 @@ This combination allows to naturally model a wide selection of systems.
   [[params.projects.project]]
     name = "SLiVER - A verification tool for LAbS systems"
     description  = """
-SLiVER is a tool for the analysis of multi-agent systems specified in the LAbS language.
-Currently, it support under-approximate analysis via bounded model checking, or analisys
+SLiVER is a tool to analyse multi-agent systems specified in the LAbS language.
+Currently, it support under-approximated analysis via bounded model checking, or analisys
 of the full state space via explicit-state model checking. Moreover, the C programs
 generated from SLiVER can be analyzed with several other techniques.
     """
@@ -222,18 +222,20 @@ systems, and supports model checking of thesespecifications through the
 state-of-the-art model checker nuXmv.
 R-CHECK is being developed as part of the D-SynMA project led by Nir Piterman,
 and the SynTM research grant held by Yehia Abd Alrahman.
-My main focus is on development of the interpreter component and its integration
-with verification workflows (e.g., loading and replaying counterexamples).
+My main focus is on development of the interpreter component and on integration
+with Visual Studio Code.
   """
-  code_link = "https://github.com/dSynMa/recipe"
+  code_link = "https://github.com/dSynMa/rcheck"
 
 
   [[params.projects.project]]
   name = "sweap - A symbolic approach to reactive synthesis"
   description = """
-sweap is a prototype tool that implements a symbolic approach to reactive synthesis. The setting is that of an arena defined as a symbolic automaton, possibly infinite-state, and an LTL (modulo theories) objective. The output is a controller or counterstrategy in HOA format.
-Currently the only theory implemented is that of Linear Integer Arithmetic.
-I collaborated with lead developer Shaun Azzopardi in the implementation of the tool.
+sweap is a prototype tool that implements a symbolic approach to reactive synthesis.
+The setting is that of an arena defined as a symbolic automaton, possibly infinite-state,
+and an LTL objective (modulo theories: we currently support Linear Integer Arithmetics).
+The output is a controller or counterstrategy in HOA format.
+I collaborate with lead developer Shaun Azzopardi in the implementation of the tool.
   """
   code_link = "https://github.com/shaunazzopardi/sweap"
 
