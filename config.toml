@@ -113,9 +113,19 @@ baseURL = "https://www.lucadistefano.eu"
   to = "October 2016"
   text="""Master's Degree in Computer and Systems Engineering at [DISIM](https://www.disim.univaq.it/) (University of L'Aquila, Italy)."""
 
+
+[[params.teaching.paragraph]]
+  from = "October 2025"
+  to = "February 2026 (proj.)"
+  text = """Operating Systems, [TU Wien](https://www.tuwien.ac.at/) ([course Web page](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=1818&dsrid=981&semester=2025W&courseNr=191002)).
+
+  Teaching assistant; course held by professor Peter Puschner.
+  I am responsible for the planning of lab activities and practical exams, and hold part of the practical classes (Ünungen) on UNIX, Linux, and systems programming in C.
+  """
+
 [[params.teaching.paragraph]]
   from = "March 2025"
-  to = "June 2025 (proj.)"
+  to = "June 2025"
   text = """Scientific Research and Writing, [TU Wien](https://www.tuwien.ac.at/).
 
   Introduction to science and the operation of the scientific community; based on a self-chosen or a given topic,
@@ -125,7 +135,7 @@ baseURL = "https://www.lucadistefano.eu"
 
 [[params.teaching.paragraph]]
   from = "March 2025"
-  to = "June 2025 (proj.)"
+  to = "June 2025"
   text=""""GPU Architectures and Computing", [TU Wien](https://www.tuwien.ac.at/)  ([course Web page](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=2885&dsrid=3&semester=2025S&courseNr=182731)).
   See below for further information.
   """
