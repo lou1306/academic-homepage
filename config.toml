@@ -118,16 +118,14 @@ baseURL = "https://www.lucadistefano.eu"
   from = "October 2025"
   to = "February 2026 (proj.)"
   text = """Operating Systems, [TU Wien](https://www.tuwien.ac.at/) ([course Web page](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=1818&dsrid=981&semester=2025W&courseNr=191002)).
-
   Teaching assistant; course held by professor Peter Puschner.
-  I am responsible for the planning of lab activities and practical exams, and hold part of the practical classes (Ünungen) on UNIX, Linux, and systems programming in C.
+  I am responsible for the planning of lab activities and practical exams, and hold part of the practical classes (Übungen) on UNIX, Linux, and systems programming in C.
   """
 
 [[params.teaching.paragraph]]
   from = "March 2025"
   to = "June 2025"
   text = """Scientific Research and Writing, [TU Wien](https://www.tuwien.ac.at/).
-
   Introduction to science and the operation of the scientific community; based on a self-chosen or a given topic,
   students practice developing a research question, performing a literature search, basic skills of scientific writing,
   and giving a scientific presentation.
