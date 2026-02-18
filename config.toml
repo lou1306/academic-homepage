@@ -265,6 +265,14 @@ Execution may be customised in several ways by means of configuration files.
   code_link = "https://github.com/lou1306/hoax"
 
 [[params.publications]]
+  year="2026"
+  [[params.publications.paper]]
+    name = "A Compositional Semantics for Reconfigurable Multi-Mode Interaction in R-CHECK"
+    authors = "Yehia Abd Alrahman, Shaun Azzopardi, Luca Di Stefano, Nir Piterman"
+    dest  = "Software Tools for Technology Transfer (to appear)"
+    pdf_link = "./papers/sttt2026.pdf"
+
+[[params.publications]]
   year="2025"
   [[params.publications.paper]]
     name = "Execution and monitoring of HOA automata with HOAX"
