@@ -269,8 +269,9 @@ Execution may be customised in several ways by means of configuration files.
   [[params.publications.paper]]
     name = "A Compositional Semantics for Reconfigurable Multi-Mode Interaction in R-CHECK"
     authors = "Yehia Abd Alrahman, Shaun Azzopardi, Luca Di Stefano, Nir Piterman"
-    dest  = "Software Tools for Technology Transfer (to appear)"
-    pdf_link = "./papers/sttt2026.pdf"
+    dest = "Software Tools for Technology Transfer"
+    link = "https://doi.org/10.1007/s10009-026-00861-1"
+    pdf_link = "https://link.springer.com/content/pdf/10.1007/s10009-026-00861-1.pdf"
 
 [[params.publications]]
   year="2025"
