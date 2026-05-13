@@ -1,4 +1,4 @@
-languageCode = "en-us"
+locale = "en-us"
 title = "Luca Di Stefano"
 theme = "zampano"
 timeout=3000
@@ -9,6 +9,7 @@ baseURL = "https://www.lucadistefano.eu"
 [params]
   subtitle = "University assistant (Post-doc)"
   charset = "utf-8"
+  Meta = "Academic homepage of Luca Di Stefano (TU Wien)"
   Description = "University assistant (Post-doc)"
   interests="Software verification, Model checking, Multi-agent systems, Formal semantics, Process calculi, Reactive Synthesis, Static analysis"
   cv_name= "LucaDiStefano_CV.pdf"
