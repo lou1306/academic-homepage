@@ -120,49 +120,38 @@ baseURL = "https://www.lucadistefano.eu"
   to = "February 2026"
   text = """Operating Systems, [TU Wien](https://www.tuwien.ac.at/) ([course Web page](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=1818&dsrid=981&semester=2025W&courseNr=191002)).
   Teaching assistant; course held by professor Peter Puschner.
-  I am responsible for the planning of lab activities and practical exams, and hold part of the practical classes (Übungen) on UNIX, Linux, and systems programming in C.
+  I am responsible for the planning of lab activities and practical exams, and
+  hold part of the practical classes (Übungen) on UNIX, Linux, and systems
+  programming in C.
   """
 
 [[params.teaching.paragraph]]
-  from = "March 2025"
-  to = "June 2025"
+  from = "2025"
+  to = "2026"
   text = """Scientific Research and Writing, [TU Wien](https://www.tuwien.ac.at/).
   Introduction to science and the operation of the scientific community; based on a self-chosen or a given topic,
   students practice developing a research question, performing a literature search, basic skills of scientific writing,
   and giving a scientific presentation.
+  I held a series of seminars on how to read and referee scientific papers,
+  and how survey the scientific literature on a given topic.
   """
 
 [[params.teaching.paragraph]]
-  from = "March 2025"
-  to = "June 2025"
-  text=""""GPU Architectures and Computing", [TU Wien](https://www.tuwien.ac.at/)  ([course Web page](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=2885&dsrid=3&semester=2025S&courseNr=182731)).
-  See below for further information.
-  """
-
-[[params.teaching.paragraph]]
-  from = "April 2024"
-  to = "July 2024"
+  from = "2024"
+  to = "2026"
   text=""""GPU Architectures and Computing", [TU Wien](https://www.tuwien.ac.at/)  ([course Web page](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=1134&dsrid=838&courseNr=182731&semester=2024S&locale=en)).
-Teaching assistant (approx. 30 hours); course held by professor Ezio Bartocci.
-The course aimed ad understanding GPU computer architectures,
+Teaching assistant; course held by professor Ezio Bartocci.
+The course aims ad understanding GPU computer architectures,
 becoming familiar with GPU programming models and environments, and solving
 problems through GPU programming (CUDA).
 I assisted in supervision and grading of group assignments related to the course.
 """
 
 [[params.teaching.paragraph]]
-  from = "August 2023"
-  to = "October 2023"
+  from = "Spring 2023"
+  to = "Fall 2023"
   text=""""Principles of Concurrent Programming", [University of Gothenburg](https://www.gu.se/) and [Chalmers](https://www.chalmers.se).
-Acted as one of the teaching assistants to course professor Nir Piterman.
-See below for further information about the course.
-
-  """
-[[params.teaching.paragraph]]
-  from = "January 2023"
-  to = "March 2023"
-  text=""""Principles of Concurrent Programming", [University of Gothenburg](https://www.gu.se/) and [Chalmers](https://www.chalmers.se).
-Acted as one of the teaching assistants to course professor Gerardo Schneider.
+Teaching assistant; course held by Gerardo Schneider (spring 2023) and Nir Piterman (fall 2023).
 My duties included assisting students during lab hours, grading assignments and
 exams, an holding part of a tutorial on Erlang. 
 
@@ -176,20 +165,13 @@ architectures.*
 
 
 [[params.teaching.paragraph]]
-  from = "March 2022"
-  to = "April 2022"
+  from = "2021"
+  to = "2022"
   text=""""Modelling and Verification", [Polytech Paris-Saclay](https://www.polytech.universite-paris-saclay.fr/).
       36-hour course for Master students in Computer Science Engineering
-      (*filière apprentissage*). Held as a supply teacher (*intervenant vacataire*). 
-See below for further information about the course.
-      """
-
-[[params.teaching.paragraph]]
-  from = "April 2021"
-  to = "May 2021"
-  text=""""Modelling and Verification", [Polytech Paris-Saclay](https://www.polytech.universite-paris-saclay.fr/).
-      36-hour course for Master students in Computer Science Engineering
-      (*filière apprentissage*). Held remotely as a supply teacher (*intervenant vacataire*). Topics:
+      (*filière apprentissage*), which I held as a
+      supply teacher (*intervenant vacataire*).
+      The course was held remotely in 2021 and on-site in 2022. Topics included:
 
 * Communicating automata, behavioural equivalences;
 * Timed automata;
@@ -277,7 +259,7 @@ Execution may be customised in several ways by means of configuration files.
 
   [[params.publications.paper]]
     name = "sweap: Reactive Synthesis for Infinite-State Integer Problems"
-    authors = "Shaun Azzopardi, Luca Di Stefano, Nir Piterman, Gerardo Schneider"
+    authors = "Shaun Azzopardi, Luca Di Stefano, Nir Piterman"
     dest = "CAV 2026 (to appear)"
     pdf_link = "https://arxiv.org/pdf/2605.11992"
     code_link = "https://github.com/shaunazzopardi/sweap/"
