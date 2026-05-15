@@ -273,6 +273,15 @@ Execution may be customised in several ways by means of configuration files.
     dest = "Software Tools for Technology Transfer"
     link = "https://doi.org/10.1007/s10009-026-00861-1"
     pdf_link = "https://link.springer.com/content/pdf/10.1007/s10009-026-00861-1.pdf"
+    code_link = "https://github.com/dsynma/rcheck"
+
+  [[params.publications.paper]]
+    name = "sweap: Reactive Synthesis for Infinite-State Integer Problems"
+    authors = "Shaun Azzopardi, Luca Di Stefano, Nir Piterman, Gerardo Schneider"
+    dest = "CAV 2026 (to appear)"
+    pdf_link = "https://arxiv.org/pdf/2605.11992"
+    code_link = "https://github.com/shaunazzopardi/sweap/"
+    artifact_link = "https://doi.org/10.5281/zenodo.19847751"
 
 [[params.publications]]
   year="2025"
@@ -282,6 +291,8 @@ Execution may be customised in several ways by means of configuration files.
     dest = "RV 2025"
     link = "https://doi.org/10.1007/978-3-032-05435-7_3"
     pdf_link = "https://arxiv.org/pdf/2507.11126"
+    artifact_link = "https://doi.org/10.5281/zenodo.15908703"
+    code_link = "https://github.com/lou1306/hoax"
     slides_link = "./slides/rv2025.pdf"
 
   [[params.publications.paper]]
@@ -290,6 +301,8 @@ Execution may be customised in several ways by means of configuration files.
     dest = "CAV 2025"
     link = "https://doi.org/10.1007/978-3-031-98685-7_13"
     pdf_link = "https://link.springer.com/content/pdf/10.1007/978-3-031-98685-7_13.pdf"
+    artifact_link = "https://doi.org/10.5281/zenodo.15223213"
+    code_link = "https://github.com/shaunazzopardi/sweap/"
 
 [[params.publications]]
   year="2024"
@@ -307,6 +320,7 @@ Execution may be customised in several ways by means of configuration files.
     link = "https://doi.org/10.1007/978-3-031-73709-1_16"
     pdf_link = "./papers/isola2024.pdf"
     slides_link = "./slides/isola2024.pdf"
+    code_link = "https://github.com/labs-lang/sliver"
 
   [[params.publications.paper]]
     name = "Attributed Point-to-Point Communication in R-CHECK"
@@ -314,6 +328,7 @@ Execution may be customised in several ways by means of configuration files.
     dest  = "ISoLA 2024"
     link = "https://doi.org/10.1007/978-3-031-75107-3_20"
     pdf_link = "./papers/isola2024rcheck.pdf"
+    code_link = "https://github.com/dsynma/rcheck"
 
 [[params.publications]]
   year="2023"
