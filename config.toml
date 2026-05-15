@@ -117,7 +117,7 @@ baseURL = "https://www.lucadistefano.eu"
 
 [[params.teaching.paragraph]]
   from = "October 2025"
-  to = "February 2026 (proj.)"
+  to = "February 2026"
   text = """Operating Systems, [TU Wien](https://www.tuwien.ac.at/) ([course Web page](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=1818&dsrid=981&semester=2025W&courseNr=191002)).
   Teaching assistant; course held by professor Peter Puschner.
   I am responsible for the planning of lab activities and practical exams, and hold part of the practical classes (Übungen) on UNIX, Linux, and systems programming in C.
