@@ -58,6 +58,13 @@ baseURL = "https://www.lucadistefano.eu"
   url = "https://bsky.app/profile/lucadistefano.eu"
 
 
+[[params.social]]
+  name = "Sifa"
+  icon = "sifa"
+  hide = true
+  url = "https://sifa.id/p/lucadistefano.eu"
+
+
 [[params.introduction.paragraph]]
   text="""
   My research focuses on the specification of complex
