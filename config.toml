@@ -440,6 +440,16 @@ Execution may be customised in several ways by means of configuration files.
     dest  = "COSIT Workshops and Posters 2017"
     link = "https://doi.org/10.1007/978-3-319-63946-8_10"
 
+
+
+[[params.reports]]
+  year="2026"
+  [[params.reports.report]]
+    name = "Comparative evaluation of TLA+ and R-CHECK specifications"
+    authors = "Alexander Tepaev"
+    dest = "Master's thesis. TU Wien, Austria"
+    pdf_link = "./theses/msc_tepaev_2026.pdf"
+
 [[params.reports]]
   year="2025"
   [[params.reports.report]]
