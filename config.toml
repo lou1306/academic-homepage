@@ -267,8 +267,9 @@ Execution may be customised in several ways by means of configuration files.
   [[params.publications.paper]]
     name = "sweap: Reactive Synthesis for Infinite-State Integer Problems"
     authors = "Shaun Azzopardi, Luca Di Stefano, Nir Piterman"
-    dest = "CAV 2026 (to appear)"
-    pdf_link = "https://arxiv.org/pdf/2605.11992"
+    dest = "CAV 2026" 
+    pdf_link = "https://link.springer.com/content/pdf/10.1007/978-3-032-32519-8_18.pdf"
+    link = "https://doi.org/10.1007/978-3-032-32519-8_18"
     code_link = "https://github.com/shaunazzopardi/sweap/"
     artifact_link = "https://doi.org/10.5281/zenodo.19847751"
 
