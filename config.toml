@@ -446,8 +446,17 @@ Execution may be customised in several ways by means of configuration files.
 
 [[params.reports]]
   year="2026"
+
+  [[params.reports.report]]
+    name = "Symbolic ω-automata with Obligations"
+    authors = "Luca Di Stefano"
+    dest  = "Presentation at [HIGHLIGHTS 2026](https://highlights-conference.org/2026/). Vienna, Austria"
+    slides_link = "./slides/highlights2026.pdf"
+
+
   [[params.reports.report]]
     name = "Comparative evaluation of TLA+ and R-CHECK specifications"
+    link = "https://repositum.tuwien.at/handle/20.500.12708/229204"
     authors = "Alexander Tepaev"
     dest = "Master's thesis. TU Wien, Austria"
     pdf_link = "./theses/msc_tepaev_2026.pdf"
@@ -457,8 +466,7 @@ Execution may be customised in several ways by means of configuration files.
   [[params.reports.report]]
     name = "Reactive synthesis of LTL objectives on infinite arenas"
     authors = "Luca Di Stefano (joint work with S. Azzopardi, N. Piterman, G. Schneider)"
-    dest  = "Presentation (from CAV'25) at the VASSAL Workshop 2025. Graz, Austria"
-    link = "https://vassal.fit.vut.cz/vassal-workshop-on-software-verification-and-runtime-analysis"
+    dest  = "Presentation (from CAV'25) at the [VASSAL Workshop 2025](https://vassal.fit.vut.cz/vassal-workshop-on-software-verification-and-runtime-analysis). Graz, Austria"
     slides_link = "./slides/vassal2025.pdf"
 
   [[params.reports.report]]
